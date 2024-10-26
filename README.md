@@ -1,0 +1,2 @@
+# EleanorOlivia
+Coin mining
